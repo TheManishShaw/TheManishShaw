@@ -36,7 +36,7 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheManishShaw&&show_icons=true&title_color=ffffff&icon_color=00c1bc&text_color=daf7dc&bg_color=151515">
+
 [stack]: https://stackoverflow.com/users/11609717/manish-shaw
 [facebook]: https://www.facebook.com/manishshaw776
 [twitter]: https://twitter.com/manishshaw776
