@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working in Adore India.
-- 🌱 I’m currently learning Adobe XD.
+- 🔭 I’m currently working in Tecblic.
+- 🌱 I’m currently Next js.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help for myself.
 - 💬 Ask me about Web Development and any programming related stuff.
