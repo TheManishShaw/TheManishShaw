@@ -1,6 +1,6 @@
-Hi 👋 My name is Manish Shaw ============================ Front-End Developer || React Js || Next Js || --------------------------------------------- I've Learning Coding for last 4 years in the web development field * 🌍  I'm based in kolkata * 🖥️  See my portfolio at [My Portfolio](http://manish.trapo.in/) * ✉️  You can contact me at [manishshaw776@gmail.com](mailto:manishshaw776@gmail.com) * 🧠  I'm learning Next Js
+Hi 👋 My name is Manish Shaw <br /> Front-End Developer || React Js || Next Js || <br /> I've Learning Coding for last 4 years in the web development field  <br />* 🌍  I'm based in kolkata  <br />* 🖥️  See my portfolio at [My Portfolio](http://manish.trapo.in/) <br />* ✉️  You can contact me at [manishshaw776@gmail.com](mailto:manishshaw776@gmail.com) * 🧠  I'm learning Next Js
 <br /><br />
-<a href="https://www.twitter.com/manishshaw776" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/manishshaw776?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/manishshaw776" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/manishshaw776?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br />
 <a href="https://www.github.com/TheManishShaw" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/TheManishShaw?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <br />
 ### Skills
@@ -22,7 +22,7 @@ Hi 👋 My name is Manish Shaw ============================ Front-End Developer 
 	<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p><br />
-### <b>Follow Me</b>
+ <b>Follow Me</b>
 <br />
 
 <p align="left">
